@@ -76,7 +76,7 @@
                         streetViewControl: false
                     });
         var geoData = [
-            { title: "Dharwar", category: "Cratons", file: "dharwar.kml" },
+            { title: "Dharwar", category: "Cratons", file: "Dharwar-Craton.kml" },
             { title: "Bastar", category: "Cratons", file: "bastar.kml" },
             { title: "Singhbhum", category: "Cratons", file: "singhbhum.kml" },
             { title: "Rajasthan/Arravali", category: "Cratons", file: "rajasthan-arravali.kml" },
