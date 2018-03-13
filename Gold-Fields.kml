@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Gold-Fields.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.53636</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff2764ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff2764ff</color>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Gold Fields</name>
+		<open>1</open>
+		<Placemark>
+			<name>Hutti gold Field</name>
+			<description><![CDATA[The Hutti gold deposit, which has an annual production of approximately 3 tons gold, is the only currently producing gold mine in India after the closure of the world-class Kolar mine. The Hutti gold deposit is located in the northwestern part of the Hutti-Maski greenstone belt in the eastern Dharwar craton of South India. The gold deposit here is of the first type i.e. Lode deposits. It is an orogenic lode gold deposit (Groves et al., 1998), with nine parallel north-south– to north-northwest-south-southeast–trending lodes hosted largely in mafic to minor felsic metavolcanic rocks. The deposit is shear zone controlled. 
+<br/>
+Modern gold mining in the Hutti area dates back about 120 years to the last decade of the 19th century, although it is known that selective mining of quartz reefs for gold was carried out in this area at least 2,000 years ago (Radhakrishna and Curtis, 1999). The Hutti deposit now has a reserve of approx. 150 Mt of ore with an average grade of 4 g/t to a depth of 3 km (Radhakrishna and Curtis, 1999).  At Hutti, the gold is associated with quartz reef within Meta basalts, represented by greenstones passing into chlorite schist.
+<br/>
+<br/>
+Documents
+<br/>
+1. D. Srinivasa Sarma, Neal J. Mcnaughton, Ian R. Fletcher, David I. Groves, M. Ram Mohan, V. Balaram “Timing of Gold Mineralization in the Hutti Gold Deposit”
+<br/>
+<a href="https://drive.google.com/open?id=1B5Id9_aMl584xNz5jb6igspEQWxPxOps">https://drive.google.com/open?id=1B5Id9_aMl584xNz5jb6igspEQWxPxOps</a>
+<br/>
+<br/>
+]]></description>
+			<LookAt>
+				<longitude>76.64717778000001</longitude>
+				<latitude>16.19763333000001</latitude>
+				<altitude>0</altitude>
+				<heading>-7.156248033292912e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999979547</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>76.64717778000001,16.19763333000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kolar Gold Field</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Kolar Gold Fields (KGF) was one of the major gold mines in India and is located in the Kolar district in Karnataka. The gold deposit here is of the first type i.e. Lode deposits. It belongs to Dharwars and was a Principal gold deposit. It was closed in 2003 due to reducing deposits and increasing costs. The mine is considered the world's second deepest gold mine.  Gold was first mined in the area in the 2nd and 3rd century AD by the digging of small pits. Large-scale mining only came in the 1850s under the British with more manpower and sophisticated machinery. The remains after extracting gold piled up to form a barren hill near the mines. At some places, the stones are loose and there is a high chance of losing grips while climbing. The hill is about 30 meters high and can be seen to the north from the Robertsonpet town. From the top of the hill you can see a good view of the town and the mines far away. The hill was mostly made up of some soft stone, probably hardened due to the heavy pressure of the soil on top; there were many interesting patterns on the rocks (George Thengummoottil, 2017).
+<br/>
+Gold here is associated with champion quartz-lodes and sulphide bearing reefs, especially, oriental lode with-in schist belt, belonging to hypothermal class.
+<br/>
+<br/>
+Documents
+<br/>
+1. Rachna Chandra, B. Anjan Kumar Prusty, P. A. Azeez, S. Mahimairaja, “The Kolar Gold Mines, India Present Status and Prospects for Phytomining”
+<br/>
+<a href="https://drive.google.com/open?id=1ZEH371H1IWPWX5p2fK7FVbFVwwLjY7BN">https://drive.google.com/open?id=1ZEH371H1IWPWX5p2fK7FVbFVwwLjY7BN</a>
+<br/>
+<br/>
+
+]]></description>
+			<LookAt>
+				<longitude>76.27141389000002</longitude>
+				<latitude>12.95828889</latitude>
+				<altitude>0</altitude>
+				<heading>1.391492673140288e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000003331</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>76.27141389000002,12.95828889,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
