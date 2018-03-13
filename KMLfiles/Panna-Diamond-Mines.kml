@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Panna-Diamond-Mines.kml</name>
+	<Style id="sh_wht-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff2764ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff2764ff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_wht-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Panna Diamond Mines</name>
+		<description><![CDATA[State -  Madhya Pradesh
+<br/>
+Asia's biggest and only active diamond mine is situated in Madhya Pradesh due to this it is also known as treasure land. A diamond property that produced 15,000 carats per year with 580,000 carats of reserves (estimated, 1984). In Panna Mines, there are two diamond pipes, namely; Hinota pipe and Majhgawan diamond pipe.
+The Majhagaon, Panna diamond mines are laid down over an area of about 80km area, starting from the Paharikhera North-East to Majhgawan South-West with breadth of around 30kms. Diamonds occur in the pipe of the olivine lamproite, the same process is done in Australia. The world’s diamond is picked up in a very simple way - First of all the ores are crushed, screened and jiggled. In the next step, concentrated part obtained in first step is spread on large area. Finally, Diamond is picked out from that concentrated material.
+<br/>
+<br/>
+Geology of Panna Mines:
+The Panna Diamond Belt (PDB) occupying the northern margin of the Vindhyan Basin in Panna district, Madhya Pradesh hosts the primary, secondary and tertiary sources of diamond. It comprises the basement Bundelkhand granitoids to the north overlain by Vindhyan Supergroup of rocks (Mid to Upper Proterozoic) to the south. The diamond mining activity is confined mainly to the Baghain plateau and to a lesser extent to the Gahadra plateau. The two kimberlite pipes known in PDB are Majhgawan and Hinota pipes (~1100 Ma), emplaced in Baghain Sandstone lying to the west of PDB. The basal conglomerate interbeds of Jhiri Shale (Upper Rewa) and Itwan Sandstone (Lower Rewa) have been extensively mined for diamond in the past. The alluvial and colluvial (Quaternary and Recent) placer diamond workings, both ancient and present, spread over the Baghain plateau mainly between Panna town in the west and Paharikhera in the east. Exploration indicated significantly higher incidence (~30 cpht) of diamond with high percentage of gem quality diamonds (Geological Society of India, Volume 69, Special Issue 3, March 2007).
+<br/>
+<br/>
+Documents
+<br/>
+1. N. V. Chalapathi Rao, “Mesoproterozoic diamondiferous ultramafic pipes at Majhgawan and Hinota, Panna area, central India”. 
+<br/>
+<a href="https://drive.google.com/open?id=1A91cx43oJb2Ef5p-9neZO1EeLXSqeLBh">https://drive.google.com/open?id=1A91cx43oJb2Ef5p-9neZO1EeLXSqeLBh</a>
+<br/>
+<br/>
+2. Fareeduddin, R.H. Sawakar, “Early Records of Diamond Mining In India”
+<br/>
+https://drive.google.com/open?id=15Gl-m5rPpCvuTKb4rUV0awy5rS57eH97
+<br/>
+<br>
+<img style="max-width:500px;" src="file:///C:/Users/User/Desktop/Panna Mines.jpg">]]></description>
+		<LookAt>
+			<longitude>80.19999999999999</longitude>
+			<latitude>24.71667000000002</latitude>
+			<altitude>0</altitude>
+			<heading>-4.770832022195274e-015</heading>
+			<tilt>0</tilt>
+			<range>1000.000000000461</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_wht-pushpin</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>80.19999999999999,24.71667000000002,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
