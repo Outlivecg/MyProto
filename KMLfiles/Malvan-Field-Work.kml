@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Malvan-Field-Work.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Malvan Field Work</name>
+		<open>1</open>
+		<Placemark>
+			<name>Chromite Mine, Near Vagade Village</name>
+			<description><![CDATA[Station 1:  <br/>
+Latitude - 16°14'28.00"N <br/>
+Longitude - 73°43'17.00"E <br/>
+Altitude - 66.8m <br/>
+<br/>
+There were 2 different types of chromite deposits that took place when Dharwar Craton was formed, they are; Stratiform and Podiform Deposits.<br/>
+The Stratiform deposits are formed during the crystallization of magma and are associtated with subduction zone and arc magmatism, whereas, the podiform deposits are already crystallised and later gets mingled with foreign magmas and finally gets deposit. Podiform Deposits are characteristic of sindhdurgh craton and proterozoic ophiolite sequences like Ladakh, Andaman and Nagaland.<br/>
+These deposits in sindhudurg are one of the oldest Sargur sequence found here which is composed of metamorphosed schists containing Cr (chromium). Also igneous rocks like pryoxinite/peridotite and amphibolites are found. At the spot we find Serpentized Talc Schist. Ultramafic Coarse grained rocks have gone thorugh the process of serpentinization and it is metamorphosed to amphibolite to serpentine schist. Light green to green coloured patches of serpentine are found in the rocks. The Chromite in this mine has gone through leaching due to monsoonal activities where the water has reacted with the Iron in Ultramafic rocks and leached it out to form a red band going through out the samples of the mine. We also find Serpentinized Hornblende Schist with Asbestos and Hornblende Schist.<br/>
+Deposits of this mine belongs to Dharwar origin (Archean –Proterozoic) more commonly of Archean period. The ophiolitic sequences are found which are the remmants of past oceaic crust, which has now been obducted and are the basement of oceanic crust.
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///D:/Elton's Field Report/word/media/image36.jpeg">
+<br/>
+Chromite Mine
+<br/><br/>]]></description>
+			<LookAt>
+				<longitude>73.65645311904251</longitude>
+				<latitude>16.25059410384495</latitude>
+				<altitude>0</altitude>
+				<heading>5.296865099837905</heading>
+				<tilt>0</tilt>
+				<range>2099.57538694594</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.7213888888889,16.24111111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chiraj Sanditex Pvt Ltd
+, Phondaghat</name>
+			<description><![CDATA[Latitude - 16°21'33.00"N <br/>
+Longitude - 73°48'2.00"E <br/>
+Altitude - 132m
+<br/>
+<br/>
+Sand mining is a practice that is used to extract sand, mainly through an open pit. Chirag Sanditex Pvt Ltd is a mining company which is specialized in mining sand from sandstone and this sand is used for different purposes of construction. This mine has the largest exposed area of the Kaladgi Ferrogenous Sandstone. Iron rich sand is also extracted here as a source of iron. The Sand is of 30/40(Filter Size) Iron Rich Characteristic used in making iron or steel. Wet Sand from the mine is taken into large cylinders and heated using fuel. An artificially created rain water utilizing water pit located inside the mine is used for filteration of sand and purification. Ferrogenous Sandstone of Kaladgi is formed due to Erosion of Haematite Quartzite which is used as the sand.<br/>
+• After confirmation that this mine can be used economically, following are the processes done for the mining.<br/>
+• First the raw sand is extracted in the formed of sandstone then crushed to form sand.<br/>
+• Then the sand is washed in the machines and pits are made in the ground for primary washing and water is stored in the pits.<br/>
+• Then the wet sand is dried in a separate room.<br/>
+• Then sand is filtered according to the particle size and its uses and weighed.<br/>
+•Then it is exported or imported to various parts.<br/>
+During rainy season the mine is kept closed and there are several places where landslides occur and it is important to identify the fault planes and joint to stop the collapse.<br/>
+At its peak output, the mine employed almost 100 workers and generated profits revenues of ` 1-2 Lakh per day. Jhonsons tiles are generally manufactured from this sand. Fissile sandstone are generally used for making glass because in this sanstones the quartz grains break easily. 30/40 sand size or market size sand is the best size of sand and is exported to Cannada. Different industries use different grades of sand for their purposes.
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///D:/Elton's Field Report/word/media/image38.jpeg">
+<br/>
+The sand is washed in these machines
+<br/><br/>
+<img style="max-width:500px;" src="file:///D:/Elton's Field Report/word/media/image39.jpeg">
+<br/>
+Machines used to Dry Sand
+<br/><br/>]]></description>
+			<LookAt>
+				<longitude>73.65645311904251</longitude>
+				<latitude>16.25059410384495</latitude>
+				<altitude>0</altitude>
+				<heading>5.296865099837919</heading>
+				<tilt>0</tilt>
+				<range>2099.575386942189</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.80055555555555,16.35916666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gad River</name>
+			<description><![CDATA[Station 1: Gad River Basement<br/>
+Latitude - 16°15'17.00"N  <br/>
+Longitude - 73°42'51.50"E <br/>
+Altitude - 39.9m <br/>
+<br/>
+At Station 1, we came across the basement rock i.e. Peninsular Gneiss. <br/>
+<br/>
+Stratigraphy: Peninsular Gneiss is the term used for gneissic and granitic rock that is exposed in the major part of Indian Craton. . The exposed outcrop was made of Tonalite-Trondhjemite-Granodiorite Gneiss with intrusions of Tourmaline Bearing Quartz-Orthoclase Feldspars Pegmatite Veins having a graphic Texture. These gneisses consitute the basement for deposition of younger succession. There are migmatitic gneisses alternating with bands of amphibolites and tonalite, hence, they are also called as TTG complex. The Dharwar craton is Precambrian in age and is around 2600m.y.a in age which is known by U-Pb Method. It consists mainly of Ultra Mafics and Amphibolites. 
+<br/>
+<br/>
+Petrology: The Tonalite-Trondhjemite-Granodiorite Gneisses are formed by crustal anatexis where there is melting of previously formed crust and this is followed by uprising of magma due to its buoyancy. Such magmas have crustal contaminations. The sequence was formed due to a process called gravity settling. The TTG Gneisses show magmatic differentiation where heavier (mafic) minerals like Pyroxenes, Hornblendes, Biotites and others settle first and then the lighter (Felsic) minerals like quartz, feldspars, plagioclase settle down. Due to gravity settling three different phases are formed. Reddish mineral {Late}, Light mineral {Middle}, Dark mineral {Base}. The Granadiorite is formed by Sodic-Calc-Plagioclase, Tronjhemite Part is formed by Biotite and Na-Plagioclase and the Pyroxenes and Hornblendes form the Tonalitic Part. Low Density Hydrothermal Liquids form the Pegmatite Veins syn or post-magma crystallization. 
+Composition of vein is Quartz+Feldspar(orthoclase dominant) where quartz is at boundaries and feldspars at core of veins. Some veins were even monomineralic in composition.
+<br/>
+<br/>
+Structural: These gneisses also shows many sets of  joints joint,  in geology, a brittle-fracture surface in rocks along which little or no displacement has occurred. Present in nearly all surface rocks, joints extend in various directions, generally more toward the vertical than to the horizontal. Joints may have smooth, clean surfaces, or they may be scarred by slicken sides, or striations. Jointing does not extend to a very great depth in the Earth’s crust, because at about 12 kilometres (7.5 miles) even rigid rocks tend to flow plastically in response to stress... 2 main types of joints are found and they can be classified as;<br/>
+Cooling joints- cooling joints are the joints which are formed genetically during the cooling of lava. The joint formation associated with cooling is typically polygonal because the cooling introduces stresses that are isotropic in the plane of the layer.<br/>
+Tectonic joints- Tectonic joints are formed during deformation episodes whenever the differential stress is high enough to induce tensile failure of the rock, irrespective of the tectonic regime.<br/>
+Two types of stresses are considered in the formation of joints.<br/>
+• Normal stress<br/>
+• Shearing stress.<br/>
+Two main types of joints were observed in the section they can be classified as parallel joints known as sets of joints and also conjugate joints which are cross cutting joints.<br/>
+Foliation planes were observed in the granitic gneisses. Foliation are  planar arrangement of structural or textural features in any rock type, but particularly that resulting from the alignment of constituent mineral grains of a metamorphic rock of the regional variety along straight or wavy planes. Foliation often occurs parallel to original bedding.<br/>
+There are 3 steps to finding out the foliation and the foliation planes.<br/>
+• Look for the foliation planes.<br/>
+• Hold the handle of the clinometers parallel to the foliation planes. <br/>
+• Measure the trend of the foliation planes with the help of the clinometers.<br/>
+ <br/>
+
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (27).png">
+<br/><br/>
+Station 2: Ptygmatic Folds<br/>
+Latitude - 16°15'16.00"N<br/>
+Longitude - 73°42'55.00"E<br/>
+Altitude - 36.9m
+<br/><br/>
+Plunging Fold is seen in TTG Gneiss and the intruded veins have also been folded to form Ptygmatic Structure or Flanking Veins. This vein is in Syncform which is formed due to tectonic activity. 
+<br/><br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (28).png">
+<br/><br/>
+Station 3: Intruded Basaltic Dyke<br/>
+Latitude - 16°15'16.39"N<br/>
+Longitude - 73°42'58.31"E<br/>
+Altitude - 37.8m<br/>
+<br/>
+The section showed the presence of a thick dolerite dyke which was intruding the peninsular gneiss with a trend of NW- SE and it showed a positive relief. This dyke was a feeder dyke and can be classified to be of the ambenalli type and a dyke feeds the flow of the molten hot magmatic melt. The dykes at the formation come in contact of substances which contanaminate it and which cause minor changes in the composition. The ambenalli dyke is the most primitive dyke of all and it is the least contaminated. 2 more dykes are present and named on the basis of the type area in which they are observed and named as bhushe and Podalpur.<br/>
+       These dykes show a contamination in their compositions and the average contamination of the Podalpur dyke is 0.71% and the Bhushe shows an average contamination of 0.59%. theMahablashwar flow is very highly contaminated. The dykes that are present here are the cooling joints. There are 4 main types of dykes.<br/>
+•  Dykes trending E-W: these are the oldest dykes and are formed after the activation of the Son-Narmada lineament. <br/>
+•  Dykes trending N- S: These are the youngest and are related to the breaking up of India. <br/>
+•  Dykes trending NW-SE OR NE-SW:  these are conjugate and were related to the collision of the Indian plate and the Eurasian plate.<br/> 
+•  Alkaline dykes: these dykes do not have a wide extent they are very short and range upto an average of 20mts.<br/>
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image2.jpeg">
+<br/>
+Vein passing through Country rock
+<br/><br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image3.jpeg">
+<br/>
+Gneiss
+<br/><br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image4.jpeg">
+<br/>
+Flanking veins in plunging syncline showing ptygmatic structure
+<br/><br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image5.jpeg">
+<br/>
+Vertical Section in TTG
+<br/><br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image6.png">
+<br/>
+Stress Orientation for Joints in TTG
+<br/><br/>]]></description>
+			<LookAt>
+				<longitude>73.50883567781165</longitude>
+				<latitude>16.08386747399528</latitude>
+				<altitude>0</altitude>
+				<heading>5.250907748843944</heading>
+				<tilt>0</tilt>
+				<range>15891.60901669809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.71430555555556,16.25472222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sindhdurgh Fort</name>
+			<description><![CDATA[Station 1: Jointed Quartzites <br/>
+Latitude - 16° 2'28.50"N <br/>
+Longitude - 73°27'32.00"E <br/>
+Altitude - 6.4m<br/>
+<br/>
+Joints here are closely spaced and the area is highly fractured due to brittle deformation and brittle shear zone is formed. Fresh water Aquifer acts as key indicator for this Location. Conjugate Jointing is seen very prominently in quartzite. With the conjugate jointing system we also see a NE-SW trending Joints. 
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (34).png">
+<br/> 
+Trend for Conjugate Joints	
+<br/>
+<br/> 
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image11.jpeg">
+<br/> 
+Conjugate Joints in Rocks at Location 2	
+<br/>
+<br/> 
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image12.jpeg">
+<br/> 
+Highly jointed terrain in Sindhudurg fort due to brittle deformation
+<br/>
+<br/>
+<br/>
+<br/> 
+Sindhdurg Conglomerate Base of Precambrian
+<br/>
+<br/>
+Latitude - 16° 2'29.24"N<br/>
+Longitude - 73°27'30.44"E<br/>
+Altitude - 6.4m<br/>
+<br/>
+Elongated meta-conglomerates clasts are found here. Conglomerates form the base which is Precambrian in age. Bandings are also seen as BMQ and BHQ. It shows alternate bands of silica and iron oxide. The sandstone has been metamorphosed into quartzite. It shows banding of light coloured fine grained quartz and dark coloured iron oxide which imparts red colour to the bands.<br/>
+
+Cross sections of meta conglomerates which is an unconformity with composition and shapes are as follows:<br/>
+•	Vein quartz<br/>
+•	Amphibolites<br/>
+•	Quartz<br/>
+•	Gneissic pebbles <br/>
+•	Jasper<br/>
+•	Fuschite mica<br/>
+<br/>
+The Sindhudurg Fort is made up of the rock quartzite. At some places these quartzites show presence of some mica giving the rock a green colouration. This green mica is called as fuschite and hence the rock is called as fuschite quartzite. Imbricated Jasper is also observed within the fuschite quartzite.
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (35).png">
+<br/>
+Sphericity dimension of Jasper within the  fuschite quartzite
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image13.jpeg">
+<br/>
+Tight Folds
+<br/>
+<br/>
+]]></description>
+			<LookAt>
+				<longitude>73.50883567781165</longitude>
+				<latitude>16.08386747399528</latitude>
+				<altitude>0</altitude>
+				<heading>5.250907748843944</heading>
+				<tilt>0</tilt>
+				<range>15891.60901669809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.45888888888889,16.04125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rathivadi</name>
+			<description><![CDATA[Latitude - 16°12'32.00"N <br/>
+Longitude - 73°35'24.00"E<br/>
+Altitude - 26.5m<br/>
+<br/>
+This location was at some distance from kasal river near Rathivade village and there we encountered an outcrop of biotite garnet schist with very thin foliations and lineations. This Mica Garnet schist is the last remnant of Sargur Group.
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (40).png">
+<br/>	
+Some folds in which their plunges showed similar trend to that of the lineations were also present. A schistose outcrop was also found with minor faulting.
+<br/>
+<br/>
+<br/>
+Station 2: Rathevadi<br/>
+Latitude - 16°12'34.00"N<br/>
+Longitude - 73°35'20.00"E <br/>
+Altitude - 30.5m <br/>
+<br/>
+Toward the west of Kasal River, the cobbly petromict orthoconglomerate is exposed. The clast of this conglomerate consists of quartz, vein quartz etc. <br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (41).png">
+<br/>
+<br/>
+ As we move further towards west direction, the clast size of the conglomerate as well as the grain size of the rocks goes on decreasing. On westward migration we get boulder conglomerate followed by pebbly conglomerate, coarse to fine grained sandstone and ferruginous shale. This conglomerate forms basal conglomerate of kaladgi supergroup. This basal conglomerate represents the unconformity between sargur group and kaladgi supergroup. The sandstones and shales in this area part of Achara formation. This Achara formation is equivalent to Badami group of the Kaladgi supergroup.<br/>
+The Achara sandstone and shale are subdivided into: 
+<br/>
+ <img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image20.png"> 
+ <br/>
+<br/>
+In the main Kaladgi basin, rocks are divided by lower Bagalkot group and upper Badami group. This division is based on structural characteristics i.e. rocks belonging to bagalkot group are slightly deformed, exhibits extensive folding and slightly faulting. The  rocks belonging to badami group are structurally undisturbed. The badami group rocks are gently dipping, at places they are horizontally settled.<br/>
+Moving along kasalriver , after the conglomerate outcrop, we pass into Golvan sandstone followed by bagayat shale. <br/>
+The Golvan sandstones of this region exhibits well developed sedimentary structures such as tabular cross bedding, trough cross bedding, longitudinal bedding, lenticular bedding , ripple marks. It also consists of developed ichinofossils and mudcracks are present in upper section , hence Golvan sequence represents subtidal , intertidal and sandflat environment.<br/>
+The Bagayat shale and fe shale exhibits structures such as horizontal parallel lamination, wave ripple lamination ,runzel marks and flaser bedding. This structures represents the higher mud flat environment.<br/>
+Petrography: Mica Garnet Schist
+<br/>
+Textures: The thin section consists of lepidoblastic texture. The quartz grains shows heterogranularmosic texture while some quartz grains show sieve texture. Few grains of biotiteshows relict texture.<br/>
+Mineralogy: The rock is mainly composed of biotite, garnet and quartz. Some grains show biotite retrograding to chlorite. The thin section also consists of opaque minerals. The opaque minerals, biotite and quartz react to form garnet. There are two generations of quartz, one with mosaic texture and another are smaller in grain size.<br/>
+Type of metamorphism: Regional metamorphism with retrogression.<br/>
+Grade of metamorphism: medium grade metamorphism.<br/>
+Facies: Greenschist<br/>
+ <br/><br/>
+Station 3: <br/>
+Latitude - 16°12'33.00"N<br/>
+Longitude - 73°35'17.00"E<br/>
+Altitude - 30.8m<br/>
+<br/>
+The area consists of ferruginized  buff coloured sandstone with intercalations on thin shale laminatons. The sandstone exhibits bidirectional structure , showing decrease in grain size in downstream direction . The sandstone also consists of plumose structure, it is formed due to accumulation of breaking strain. <br/>
+The trend of sandstone bed is 1600N Dipping 230NW.<br/>
+As we move along the outcrop, the sandstone exhibits layers of sedimentary structures. The lowest bed consists of round crest of ripple marks followed by trough cross bedding and top layer exhibits tabular cross laminations.<br/>
+The dip of axis of trough is 270/285N.<br/>
+The common primary structures found here are as follows:<br/>
+•	Ripple laminations<br/>
+•	Trough trough cross <br/>
+•	Bidirectional cross bedding <br/>
+•	Tabular bedding <br/>
+ <br/><br/>
+Location 2:<br/>
+Station 1:<br/>
+Latitude - 16°13'13.00"N<br/>
+Longitude - 73°35'5.00"E<br/>
+Altitude - 18m<br/>
+<br/>
+The Outcrop Contains Fine Grained Sandstone Showing Different Asymmetrical Ripple Marks Such As Tunning Fork Ripples With Broad Crest And Pointed Crest.<br/>
+The Trend Of Sandstone Bed Is 3300N Dipping 250/2500N.
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (42).png">
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image21.jpeg">
+<br/>
+Bidirectional cross bedding in Achra sandstone and shale formation
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image22.jpeg">
+<br/>
+Quartz arenite. containing ferrougenous material in Achra sandstone and shale formation
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image23.jpeg">
+<br/>
+Large Scale Tabular Cross Bedding
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image24.jpeg">
+<br/>
+Fork ripple marks near a stream in Rathivade village
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image25.jpeg">
+<br/>
+Current ripple bedding near a stream in Rathivade village
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image26.jpeg">
+<br/>
+Trough cross bedding in Achra sandstone and shale formation
+<br/>
+<br/>]]></description>
+			<LookAt>
+				<longitude>73.65645311904251</longitude>
+				<latitude>16.25059410384495</latitude>
+				<altitude>0</altitude>
+				<heading>5.296865099837905</heading>
+				<tilt>0</tilt>
+				<range>2099.57538694594</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.58999999999999,16.20888888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Railway Cutting (Near Kasal)</name>
+			<description><![CDATA[Latitude - 16°11'30.93"N <br/>
+Longitude - 73°42'49.37"E <br/>
+Altitude - 66.1m <br/>
+<br/>
+A few kilometer from first location towards SW direction along a Railway cut section which shows Penninsular gneisses at base overlain by Pebbely conglomarate, Paleosol and Deccan traps on the top. This section shows  unconformity between Penninsular gneiss(2600Ma) and Deccan traps(65Ma). This unconformity is marked by the presence of Basal pebbly conglomarate. 
+<br/>
+This conglomerate horizon shows reduction in size from boulders to silt size particles from bottom to top. Conglomarate consist of clasts of Sandstone, Amphibolite and B.H.Q. belonging to Kaladagi Supergroup and Penninsular gneisses. The banded hametite quartzite and feldspathic gneiss represents that the source was from the KalagdiSupergroup which indicate that the kalagdisupergroup and sausar group were present at that time of formation.
+<br/>
+	The term Paleosol reffers to a former soil preserved by burial underneath either sediments or volcanic deposits which sometimes get lithified into rocks. Here the former soil is preserved beneath volcanic rocks i.e. Deccan traps. These paleosols are formed long period ago that have no relationship in their chemical and physical characteristics to the present day climate or vegetation. Hence they are useful in determining paleoclimate. The red colour of Paleosol indicate the oxidizing conditions during the formation of soil and also called as Oxisol.
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (29).png">
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image7.jpeg">
+<br/>
+Section showing Unconformity and Palaeosol
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image8.jpeg">
+<br/>
+Litholog showing Palaeosol and Unconformity
+<br/>
+<br/>
+]]></description>
+			<LookAt>
+				<longitude>73.50883567781165</longitude>
+				<latitude>16.08386747399528</latitude>
+				<altitude>0</altitude>
+				<heading>5.250907748843944</heading>
+				<tilt>0</tilt>
+				<range>15891.60901669809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.71371388888889,16.191925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Phasewadi, Confluence of River Gad and River Janavli</name>
+			<description><![CDATA[Station 1: Dumortierite Quartzite and Fold Structure Studies<br/>
+Latitude - 16° 2'29.24"N <br/>
+Longitude - 73°27'30.44"E<br/>
+Altitude in Meters – 27.4m<br/>
+<br/>
+After confluence of Janavali and Gad River near Pisekamte village we observed a complex folded section. It consists ductile deformation of metasedimentary rock. It has been deposited as ocean sediments 3.3 by ago. It represents Sargur group of rocks which are mainly metasediments and volcanics.<br/>
+Thre rock is deumortorite quartzite which is composed of metamorphosed sandstone containing mineral deumortorite. It is an amphibole group mineral and is an aluminium-Boron silicate mineral. It is pink in colour on surface of fresh sample. It typically occurs in high temperature aluminium rich regional metamorphic rocks, those resulting from contact metamorphismfrom boron rich pegmatites. The source of Boron may be from mantle rocks.<br/>
+Here we studied various kinds of folds like Chevron fold, Anticlinal and synclinal folds and plunging folds. It also shows different types of interference patterns like hook shaped pattern. The highly folded rock shows steeply dipping beds and the folds have a plunge of greater than 850. The axial plane also shows small scale displacement.Mapping of the folds was carried out on the day and an outcrop map was prepared. The fold axes and interference patterns were identified.
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (36).png">
+<br/>
+<br/>
+<br/>
+Station 2: <br/>
+Latitude - 16°15'11.00"N<br/>
+Longitude - 73°39'18.00"E<br/>
+Altitude in Meters – 26.2m<br/>
+<br/>
+A section of rock was studied which shows development of large scale tabular cross bedding at the base followed by ripple lamination.This is overlain by quartzite with parallel bedding with hummocky stratification (Swelly stratification) developed in shallow marine stormy condition. Thin band of pebbly oligomict conglomerate lies above it. It passes into fine grained large scale cross bedding round. Above this lies quartzite having rounded crested ripple, it is wavy ripple. It is growing and climbing upon one another and can be seen in the section perpendicular to the bedding. It is also called as climbing ripple lamination.<br/><br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (37).png">
+<br/>
+<br/>
+<br/>
+Station 3: <br/>
+Latitude - 16°15'16.00"N <br/>
+Longitude - 733°39'29.61"E <br/>
+Altitude - 25.5m <br/>
+<br/>
+Along the Gad River toward South of Pisekamathe school we observed stretched conglomeratic outcrop. This stretched pebble conglomerate represents the unconformity between deumortorite quartzite and underlying actinolite garnet schist. <br/>
+The outcrop exhibits a stretch of deformed autoclastic stretched conglomerate cemented in amphibolite matrix. The conglomerate clast is composed of quartz and quartzite grains. The clast if of a different composition than the matrix and it floats in the matrix hence the rock is oligomict para-conglomerate which was initially present in the area and was later deformed and stretched to produce stretched pebbles. The stretching of pebbles causes change in length of axes. Compression causes shortening of axes whereas extension causes elongation of axes. Boudins form due to extension along sigma3 and produces a linear fracture whereas compression takes place along maximum stress i.e. sigma1. <br/>
+Amphibolite matrix may be produced by metamorphism of pelitic sediments at the time of stretching. The conglomerate clast is steeply dipping by an angle of greater than 70o along 260oN. 
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (38).png">
+<br/>
+<br/>
+<br/>
+Station 4:<br/>
+Latitude - 16°15'15.00"N<br/>
+Longitude - 73°39'35.00"E<br/>
+Altitude - 25m<br/>
+<br/>
+An outcrop of actinolite garnet schist underlying the unconformable conglomerate studied at previous location was observed. The schistose structure formed due to parallel arrangement of flaky minerals i.e biotite and imparts lepidoblastic texture whereas the needle shaped actinolite grains impart neumatoblastic texture. The rock has formed due to medium grade metamorphism of fine grained mud or pelite. <br/>
+The outcrop shows presence of both foliation and lineation. The foliation forms perpendicular to stress whereas the lineation imparts the flow direction. 
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (39).png">
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image14.jpeg">
+<br/>
+Outcrop showing perfect Folds
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image15.jpeg">
+<br/>
+Folding followed by faulting
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image16.jpeg">
+<br/>
+Deumortorite Quartzite Mapping 1
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image17.jpeg">
+<br/>
+Deumortorite Quartzite Mapping 2
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image18.jpeg">
+<br/>
+Oligomict Conglomerate
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image19.jpeg">
+<br/>
+Sequence of formation of outcrop
+<br/>
+<br/>
+
+
+
+
+]]></description>
+			<LookAt>
+				<longitude>73.50883567781165</longitude>
+				<latitude>16.08386747399528</latitude>
+				<altitude>0</altitude>
+				<heading>5.250907748843944</heading>
+				<tilt>0</tilt>
+				<range>15891.60901669809</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.655,16.25305555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramgad Fort</name>
+			<description><![CDATA[Latitude - 16°14'14.00"N <br/>
+Longitude - 73°36'42.00"E <br/>
+Altitude - 65.2m<br/>
+<br/>
+This Location comes with an increase in the grade of metamorphism. The grade of metamorphism is increased from Talc Schist at the base to Kyanite Schist at the top of the Fort. The rocks found in this place are mainly; Muscovite Schist, Kyanite Schist, Talc Schist and these represent different grades. Fuchite Mica has a white colour due to erosion and blended with white talc schist. <br/>
+Grade of metamorphism in Barrovian Zone: <br/>
+Chlorite ---- Biotite ---- Garnet ---- Staurolite ---- Kyanite ---- Silimanite<br/>
+	
+Low-------------------------------- Medium ---------------------------------- High
+<br/><br/>
+
+
+
+
+
+]]></description>
+			<LookAt>
+				<longitude>73.65645311904251</longitude>
+				<latitude>16.25059410384495</latitude>
+				<altitude>0</altitude>
+				<heading>5.296865099837905</heading>
+				<tilt>0</tilt>
+				<range>2099.57538694594</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.61166666666667,16.23722222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramgad Village</name>
+			<description><![CDATA[Station 1: Stream near Ramgad Village 
+<br/>
+Ltitude - 16°13'13.00"N 
+<br/>
+Longitude - 73°35'5.00"E 
+<br/>
+Altitude -18m <br/>
+<br/>
+This location is a great example for the samples of Intermediate to High grade metamorphic rocks. Staurolite Schist is found in abundance which belongs to Sargur Group. The grade of the rocks range from Actinolite to Staurolite schist.<br/>
+Sargur Schist group consists of Quartz Garnet Schist, Quartz Actinolite Tremolite Schist, Talc Biotite Schist which are formed by deformation of Argillaceous Pellitic Rocks. The Sargur Schist Group also consists of Pink Quartzites, Amphibolite Schist, Kyanite – Saturolite Schist and Garnet Mica Schist, which are formed due to Arenaceous Sematic Rock Deformations. Staurolite is of Ferrous Aluminium Silicate Oxide characteristic of intermediate to high grade Barrovian zone of Metamorphism. Staurolite is formed in monoclinic system and show perfect twinning.Though in a small amount, garnetiferous schists are present. Staurolite is often easily recognized by its characteristic penetration twins and prismatic crystals with a diamond-shaped cross section.
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (43).png">
+<br/>
+<br/>
+From the observations on the field, it can be concluded that the grade of metamorphism increases as we move in the downstream direction. Different Rocks are observed, namely; Quartzite, Staurolite Schist, Garnetiferous Mica Schist, Laterites.
+<br/><br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image30.jpeg">
+<br/>
+A rock sample comprising of Staurolite minerals
+<br/>
+<br/>]]></description>
+			<LookAt>
+				<longitude>73.65645311904251</longitude>
+				<latitude>16.25059410384495</latitude>
+				<altitude>0</altitude>
+				<heading>5.296865099837905</heading>
+				<tilt>0</tilt>
+				<range>2099.57538694594</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.58472222222221,16.22027777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kunkavli</name>
+			<description><![CDATA[Station 1: Granitic Intrusions, Migmatites and Mesoscopic Fold Structures <br/>
+Latitude - 16° 5'23.35"N <br/>
+Longitude - 73°43'50.88"E <br/>
+Altitude - 44.2m <br/>
+<br/>
+About 1.3km from Karivane, we came to an outcrop which had alternate separation of light and dark bands. Hence, they look like Gneissic rock. The outcrop has the rocks with different banding of Light and Dark coloured minerals, namely; <br/>
+Leucosomes: Composition of Na- feldspars and Quartz. [Light Coloured Band]<br/>
+Melanosomes: Composition of Amphiboles and Biotite. [Dark Coloured Band]<br/>
+Here, the bands are not parallel to each other, so, they must have formed due to ductile deformation of the rock. We call this outcrop as Migmatite. The country rock is Mafic Schists and TTG Gneisses, which is intruded by granitic magma to form Migmatites at very high pressure. Migmatites are the rocks which convey the phase of metamorphic rock getting converted to igneous rocks by the process of re-crystallization. They get mingled with the magma and associated with gneisses.<br/>
+These migmatites have then gone through subsequent deformations giving rise to multiple mesoscopic folding. Different types of folds are seen. Ptygmatic fold is one of them. After formation of Normal folds, the rock keeps undergoing deformation giving rise to Recumbent folds. Futher deformation gives rise to Isoclinal Folds and then Tight Folds, Open Folds, Hooke shaped Folds and finally Boomerang. Due to the ductile deformation, the foliations on the terrain also get folded in the form of S-Shaped folds and M-Shaped folds. <br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (44).png">
+<br/>
+<br/>
+
+Flow banding structures are common in migmatites according to the mobility of charged ions or the settling of ions. Secondary folding, Buckling and superimposed folding are formed after the rock has crystallized for a while.<br/>
+The outcrop also contains a number of veins/dykes/dikelets passing through the rocks. A dyke was observed passing through the migmatites and was mostly composed of Quartz and some felsic minerals. The Subsequent Plastic Ductile deformations were going on since the formation of the Dharwar Craton. 
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image31.jpeg">
+<br/>
+Mushroom shaped outcrop of Type-2 folds
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image32.jpeg">
+<br/>
+Drag folds shown by incompetent bedding
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image33.jpeg">
+<br/>
+Sample at Migmatite Outcrop
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image34.jpeg">
+<br/>
+Migmatite
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image35.jpeg">
+<br/>
+M-Type Folds
+<br/>
+<br/>
+]]></description>
+			<LookAt>
+				<longitude>73.65645311904251</longitude>
+				<latitude>16.25059410384495</latitude>
+				<altitude>0</altitude>
+				<heading>5.296865099837919</heading>
+				<tilt>0</tilt>
+				<range>2099.575386942189</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.7308,16.08981944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Malvan-Kankavali Field Work Area</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (50).png">
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (51).png">
+<br/>
+<br/>
+Document 
+<br/>
+E. Pereira, “Field Report Kankavali-Malvan”.
+<br/>
+<a href="https://drive.google.com/open?id=1frWcPdz7JW0FqspMUoggWXy64zlKBXL8">https://drive.google.com/open?id=1frWcPdz7JW0FqspMUoggWXy64zlKBXL8</a>
+<br/>
+<br/>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							73.45797472803123,16.08176722214914,0 73.45994417243998,16.08138692077505,0 73.46151935978382,16.08062852192527,0 73.46270029298435,16.07949204216651,0 73.46348726961011,16.07835594288917,0 73.46466785244046,16.07684103515453,0 73.46466667673198,16.07532725133509,0 73.4646651964639,16.07343503473558,0 73.46466370438425,16.07154283496397,0 73.46426860619769,16.07002944687364,0 73.46347961812614,16.06851642128005,0 73.4619031505417,16.06738253523837,0 73.46072086877975,16.06662672172107,0 73.45914438396527,16.06549280924575,0 73.45756819062036,16.06473731957494,0 73.45559864556476,16.06473903184881,0 73.45402326106461,16.06511883369467,0 73.45362849461516,16.06398384674208,0 73.45362707054711,16.06209164797839,0 73.45362563276504,16.06019946021108,0 73.45362447266545,16.05868571763284,0 73.45401720360232,16.05717165288401,0 73.4548038169022,16.05565726990865,0 73.45480231977184,16.05376512008462,0 73.4548008091304,16.0518729769788,0 73.45479959088935,16.05035926704957,0 73.45479805592724,16.04846713358668,0 73.45479650745361,16.04657500458446,0 73.45479463144866,16.04430445322346,0 73.45479273598544,16.04203390453727,0 73.45479146153284,16.04052020611798,0 73.45478985630498,16.03862808308087,0 73.45557627306039,16.03711377784586,0 73.45675716638881,16.03635601881288,0 73.45833220498922,16.03597637290163,0 73.45990721915935,16.03559671884433,0 73.46148254195384,16.035595473365,0 73.46345165233065,16.03559389958917,0 73.46542073321022,16.03559230699227,0 73.46699597526046,16.0355910193653,0 73.46857154678463,16.03596812833101,0 73.47014744899376,16.03672362854607,0 73.47132990146982,16.03785784948277,0 73.47133131412019,16.03937147041392,0 73.47133271994531,16.04088509094449,0 73.47133446762902,16.04277711663828,0 73.4713362046495,16.04466914367154,0 73.4729117878281,16.04504617600699,0 73.47448699837328,16.04504479181238,0 73.47645598918707,16.04504304608595,0 73.47763737475393,16.04504199038997,0 73.48000010194971,16.04503986043482,0 73.48157486602973,16.04466003094302,0 73.48314960643687,16.04428019322061,0 73.48472469694001,16.04427874008727,0 73.48511809386231,16.04389998220638,0 73.48748031185276,16.04351938871788,0 73.49062999458623,16.0431380267508,0 73.49141749945115,16.04313727691128,0 73.49417335522747,16.04275624434438,0 73.49574833180517,16.04275471763984,0 73.49771703590005,16.04275279342775,0 73.49968531808457,16.04237246923736,0 73.50165357501301,16.04199212965813,0 73.50283476213591,16.041990946818,0 73.50480339698187,16.04198896123902,0 73.50637829349897,16.04198736001721,0 73.51110293302891,16.04198248829709,0 73.51464636778461,16.04197876751329,0 73.51700863916891,16.0419762550869,0 73.51779562146062,16.04159703708404,0 73.52015743064273,16.04121611694392,0 73.52212551442472,16.04083560235346,0 73.52527469366368,16.0404537672621,0 73.52803014930056,16.04007232786664,0 73.53039235245667,16.04006967165383,0 73.53236085301468,16.04006743828244,0 73.53432935292183,16.04006518685448,0 73.5359041530581,16.04006337271062,0 73.53866005530458,16.04006017014829,0 73.54141596322764,16.0400569321869,0 73.54456558145462,16.04005318831088,0 73.54771521323724,16.04004939819127,0 73.55007745063423,16.04004652524814,0 73.55165228112229,16.04004459549961,0 73.5540150457575,16.04042005539426,0 73.55558989663805,16.04041809728593,0 73.55755898209215,16.04079401092115,0 73.5595275706979,16.0407915298868,0 73.5622846645492,16.04154478541974,0 73.56582927068652,16.04229699540021,0 73.56819220892382,16.04267231347797,0 73.56937395864819,16.04304915596419,0 73.57213124247961,16.04380230732721,0 73.57410052900546,16.04417809063089,0 73.57606984760383,16.04455385904652,0 73.57803863926299,16.04455122348136,0 73.57961424820759,16.04492749327603,0 73.58158421411264,16.0456816128608,0 73.58355365260093,16.04605732776403,0 73.58631126992806,16.04681034421169,0 73.58946275421177,16.0475627915133,0 73.59300874504946,16.04869306126552,0 73.59694750427393,16.04906592648684,0 73.59773575562622,16.04944322026169,0 73.60049378432814,16.05019612221914,0 73.60285806583917,16.05094957026683,0 73.6032519116409,16.05094900514685,0 73.60640399314968,16.05170130050313,0 73.61073657674181,16.05169499485659,0 73.61664623297668,16.05244313770419,0 73.62137519602047,16.05357139041071,0 73.62295093054055,16.05356902001827,0 73.62570919338313,16.05394329591277,0 73.62807360677563,16.05431814987803,0 73.63043877274619,16.05507144568148,0 73.63398533103441,16.05544445316106,0 73.63516801547281,16.05582108968347,0 73.63792748048797,16.0565737478419,0 73.63950427181904,16.05694976673674,0 73.64226252710716,16.05694545236434,0 73.64344537909022,16.05732207518232,0 73.6458104443625,16.05769683243097,0 73.64778225625251,16.05845069040474,0 73.65369666553316,16.05995527098627,0 73.65527390901461,16.06033125347397,0 73.65764023349996,16.06108447861717,0 73.66040008537328,16.06145854763791,0 73.66237170524181,16.06183388063128,0 73.66276589057246,16.06183324168248,0 73.66473684413944,16.06183003828921,0 73.66907315725564,16.06182293998329,0 73.6722270626925,16.06181773360286,0 73.67538193191189,16.06219104317243,0 73.68563731538684,16.06368808611877,0 73.69155635990974,16.06519238878855,0 73.69984393730147,16.0670712538828,0 73.70694960281273,16.0689521718761,0 73.70852872458495,16.06932808775465,0 73.71168534933558,16.0693226030471,0 73.71365927753003,16.06969782375726,0 73.71681812751378,16.0704496443399,0 73.72471633278711,16.07413166567696,0 73.73108516538223,16.0767390659207,0 73.73563229245794,16.07760290283843,0 73.73927233421036,16.07934221477321,0 73.74382538099133,16.08282665477685,0 73.74837667123525,16.08543732542763,0 73.7501968413271,16.08630683184456,0 73.75383724667785,16.08804578951873,0 73.75838887882337,16.0906561586119,0 73.76112034061852,16.09239703516483,0 73.7647650482276,16.09588289410395,0 73.77022838454539,16.09936436066097,0 73.77477866498832,16.10110070515084,0 73.77751260394001,16.10371486685894,0 73.78388387906368,16.1063201762326,0 73.78752536372265,16.10805841623889,0 73.79207634889096,16.10979434890604,0 73.79753693033959,16.11152790836471,0 73.80027373639068,16.11501531029292,0 73.80301069959006,16.11850266578099,0 73.80574563263642,16.12111643161198,0 73.80938801925427,16.12285431110746,0 73.81212321326578,16.12546800722156,0 73.81576367506963,16.12633224249625,0 73.81849911698944,16.12894587743017,0 73.8203273301675,16.13243539000443,0 73.82216702263405,16.14029259821772,0 73.82218532098814,16.14728085585957,0 73.82221302572813,16.15776310833247,0 73.82223166712298,16.16475121709993,0 73.8222433877297,16.16911877160125,0 73.82224809099748,16.17086579210782,0 73.82226462006734,16.17698036379113,0 73.82227649097952,16.18134792135117,0 73.82137378456167,16.1839706957015,0 73.81866086235756,16.19009193801299,0 73.81775815002688,16.19271467659879,0 73.81504520989424,16.19883582707297,0 73.8150547732364,16.20232989184625,0 73.81415684496429,16.20669966343193,0 73.81143666557989,16.21020020481849,0 73.80871406305566,16.21282717328047,0 73.80598907468226,16.2145805750533,0 73.80417399086875,16.21633183678181,0 73.79963154862334,16.21896285531726,0 73.79599898716462,16.22159170568993,0 73.79418620465488,16.22421639828592,0 73.7887430624523,16.23034333913294,0 73.78511497725849,16.2347190946256,0 73.7842096653626,16.23646819205736,0 73.77967381406171,16.2417194543068,0 73.77604548020102,16.2460951579421,0 73.77514461784575,16.24959143649702,0 73.77515599008875,16.25395941869423,0 73.77425056667497,16.25570857057704,0 73.77335422516553,16.26095225271994,0 73.77337020571015,16.26706780225393,0 73.77246929172672,16.27056442021514,0 73.77247845286411,16.27405919529629,0 73.77248993486144,16.27842776905536,0 73.77249684037557,16.28104897183162,0 73.77341623529945,16.28454208594842,0 73.7770756986794,16.29152482641578,0 73.78073570571367,16.29850799049823,0 73.78256832681996,16.30287362930208,0 73.78531393600825,16.30811149617306,0 73.78623165797717,16.31073146975085,0 73.78988819844847,16.31596786542014,0 73.79171913788163,16.31946020482319,0 73.79628440268714,16.32382113819843,0 73.79993956107178,16.32818416748881,0 73.80450577407058,16.33254555623089,0 73.80633504778682,16.33516438098371,0 73.80816976185147,16.33953175173518,0 73.81091278757819,16.3430232169343,0 73.81365878262272,16.34738916364377,0 73.81549145311394,16.35088284614399,0 73.81732705990909,16.35525109328516,0 73.81915450150346,16.3569962513184,0 73.82099047307769,16.36136486302122,0 73.8237434173203,16.36748098917666,0 73.82375482892222,16.37097926828263,0 73.82376341078785,16.37360308123724,0 73.82377775797426,16.37797628393057,0 73.82105570760821,16.38148036368957,0 73.81832787729621,16.38323512907048,0 73.81469166412171,16.38586638911309,0 73.81287493156815,16.3876194236184,0 73.80741072645432,16.38850475403035,0 73.80285775708666,16.3893882997111,0 73.79921326854939,16.38939532553151,0 73.79283560651126,16.38940760342739,0 73.7891913401445,16.38941460948543,0 73.78553941275025,16.38679749477184,0 73.78371226755128,16.3850516307174,0 73.77914730297998,16.38156182644182,0 73.77640951818638,16.37981788730294,0 73.77366694984006,16.37632485736775,0 73.77000894203682,16.37108477383179,0 73.76908848124164,16.3675886451569,0 73.7672597511054,16.36496888119298,0 73.76542639759873,16.36060042936598,0 73.76268022972364,16.35535967949233,0 73.75994133100429,16.35274209750619,0 73.75719344518679,16.34662763506567,0 73.75536323843494,16.3431343576925,0 73.75170995832851,16.33877064362576,0 73.74805702355292,16.33440714474646,0 73.74623177816758,16.33266250709372,0 73.74257933221377,16.32829929459446,0 73.73983967739824,16.3248085224836,0 73.73710021515551,16.32131785403216,0 73.73436303620407,16.31870125879156,0 73.7307157411618,16.3160865066564,0 73.72980343644495,16.31521434622792,0 73.72251152843545,16.31085891333374,0 73.71795661975068,16.30911992635414,0 73.71431203035492,16.30737918389507,0 73.70975360021544,16.30389250371622,0 73.70519920198629,16.30215352029651,0 73.70155689916972,16.30128661614308,0 73.69791099852779,16.29867207881155,0 73.69335878203948,16.29780684383585,0 73.69153684299481,16.29693647107977,0 73.68789655982364,16.29694327473624,0 73.68152262328016,16.29520754397086,0 73.67788068407285,16.29434049314786,0 73.67332706700424,16.2926013144864,0 73.66968358826013,16.29086044838975,0 73.66422012437474,16.2891228602593,0 73.66239846139294,16.2882524094666,0 73.65511508220648,16.28651799199255,0 73.65056187236488,16.28477862404257,0 73.64692025339812,16.28391133348803,0 73.64418867672711,16.28304241557697,0 73.6405485411867,16.28304877784921,0 73.63508399843211,16.28043710731103,0 73.63235388099795,16.28044181097252,0 73.62779949215874,16.2778284902104,0 73.6241565916156,16.27608727981786,0 73.6205123912633,16.27347235635561,0 73.61777961524635,16.27172956767488,0 73.61595822822183,16.27085892908604,0 73.61049281125075,16.26737328017847,0 73.60685010934981,16.26563192225191,0 73.60229737868835,16.26389198439809,0 73.59865470900886,16.26215052234339,0 73.5913694054523,16.25866747239696,0 73.58772559281282,16.25605222412875,0 73.58590197160534,16.25343413601204,0 73.58134131573651,16.24557852066253,0 73.57860662076782,16.24208821469537,0 73.57678199998632,16.23859655124377,0 73.57495855057395,16.23597848274226,0 73.57222171881476,16.23074100511192,0 73.57221946096394,16.22899386909665,0 73.56948157759069,16.22288286439284,0 73.56765030345073,16.21414998241464,0 73.56582244701897,16.20803778514106,0 73.56490794565642,16.20454493296783,0 73.56763533332828,16.20279416691208,0 73.57127127931491,16.20016863959034,0 73.57308617046856,16.19667213857204,0 73.57490093904941,16.19317567027432,0 73.57580704108079,16.19055396431957,0 73.57580086758306,16.18618656641764,0 73.57579714178326,16.18356613469126,0 73.57306047265925,16.17832895472687,0 73.57032507625395,16.17396517011023,0 73.56667873742219,16.16872898146768,0 73.56303364789214,16.16436613403682,0 73.56029954521372,16.1608755240362,0 73.55847639378182,16.15825722736516,0 73.5566544669887,16.1565124049501,0 73.55209842419185,16.1512766572271,0 73.54572281742317,16.14604269642267,0 73.54025570348898,16.13993373708374,0 73.53205664824425,16.13207992476472,0 73.52659402373334,16.12946446557424,0 73.5238608808715,16.12684616362202,0 73.52021896741707,16.12510226071117,0 73.51111265255291,16.11986826017182,0 73.50838042145426,16.11812314238128,0 73.50382581777608,16.11463192950246,0 73.49836101861737,16.1111411275969,0 73.49289598629866,16.10764996549513,0 73.4892543675699,16.1067786854892,0 73.48379114766208,16.10503464531463,0 73.48014697409418,16.10241537041778,0 73.47650380570306,16.10066979667579,0 73.47195020102053,16.09892457411124,0 73.47012737313574,16.09717772314355,0 73.46764780498252,16.09477227238384,0 73.46707493382775,16.09449766323526,0 73.46564140934036,16.09229814125797,0 73.46449544045325,16.09147382100093,0 73.46363554395086,16.09037417087994,0 73.46277565380743,16.08927451673015,0 73.46162946682647,16.08817509020789,0 73.46105637663086,16.08762537403626,0 73.46019626605882,16.08625061666772,0 73.45933640203006,16.0851509433002,0 73.45876284575029,16.08405103744851,0 73.45733039151341,16.08295180321835,0 73.45732968163563,16.082126530146,0 73.45761574461541,16.08185121455944,0 73.45797472803123,16.08176722214914,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Malvan Beach - Rock Garden</name>
+			<description><![CDATA[Station 1: Near PDW Rest House <br/>
+Latitude - 16°3'47.04"N <br/>
+Longitude - 73°27'21.01"E <br/>
+Altitude - 2.7m <br/>
+<br/>
+The outcrop exposed is of Bababudan group of Dharwar super group and get younger from Kankavali to Malvan. The base of the sequence is made up of meta conglomerates and quartzite. The quartzites belonging to lower member of bababudan have undergone greenschist to amphibolite facies of metamorphism whereas peninsular rocks have undergone amphibolite facies of metamorphism. The lower member of Bababudan is quartzite having primary sedimentary structures like cross bedding. The unconformity is represented by conglomerate.<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (32).png">
+<br/>
+After the deposition of elongated pebbles of conglomerates, which were deposited parallel to the bedding surfaces, these pebbles of conglomerates graded into much granular conglomerates. After a course of time, due metamorphism of these granular conglomerates, they later graded into pale greenish coloured quartzites with pebbles of quartz veins.<br/>
+A variety of primary sedimentary structures are seen on the traverse some of them are listed below are:<br/>
+• Large Scale Cross Bedding: This structure indicates shallow marine environment.<br/>
+• Parallel Cross Bedding: This structure indicates shallow marine environment.<br/>
+• Bidirectional Cross Bedding: Tidal Flats and offshore bars.<br/>
+• Hummocky Cross Stratifications: Tidal Flats and offshore bars. <br/>
+• Ripple Marks: Tidal Flats and offshore bars.<br/>
+• Herringbone Cross Bedding <br/>
+• Wedge Shapped Bedding: Tidal Flats and offshore bars.<br/>
+Every Sedimentary Structure depicts environment in which it was formed. All the sedimentary structures are clastic and are deposted in shallow marine environment. The tidal flat and the offshore flats points towards the paleaocurrent direction. Based on the composition and characteristics source of the sediments can be determined. Original Depositional Attributes cannot be directly inferred due to the fact that there is a tilt which exceeds more than 15°.
+<br/>
+<br/>
+<br/>
+Station 2: Horizontal Cross Bedding and Wedge Shaped Bedding<br/>
+Latitude - 16° 3'45.00"N <br/>
+Longitude 73°27'19.00"E <br/>
+Altitude - 2.7m <br/>
+<br/>
+Here the horizontal cross laminated bedding are seen. Cross beds are generally a single layer of sedimentation unit consisting of internal lamellae that are inclined to principle surface of sedimentation and in case of horizontal cross beddings the bounding surfaces are simple planar surfaces and there is a trough and are curved, they range in size from 4 cm to 2 m. The height of the beds were approximately of about 1 to 1 ½ m. 
+<br/>
+<br/>
+<br/>
+Station 3: Epsilon Cross Bedding <br/>
+Latitude - 16° 3'45.35"N <br/>
+Longitude - 73°27'19.67"E <br/>
+Altitude - 2.7m <br/>
+<br/>
+Curved foreset of a cross bedded strata is seen. This is formed only in two environments; point bars of meandering rivers or Tidal Flats. Since the forsets are deformed or convoluted it is distinctive of Epsilon Cross Bedding in Typical Tidal Flat Environment as a result of liquefaction.<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/Screenshot (33).png">
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image9.jpeg">
+<br/>
+Metamorphosed orthoconglomerate with pale green colour showing wedge shaped cross structure
+<br/>
+<br/>
+<img style="max-width:500px;" src="file:///C:/Users/User/Pictures/Screenshots/image10.jpeg">
+<br/>
+Outcrop Belonging to Bababudhan Group
+<br/>
+<br/>
+
+
+]]></description>
+			<LookAt>
+				<longitude>73.45583611111111</longitude>
+				<latitude>16.06306666666666</latitude>
+				<altitude>0</altitude>
+				<heading>1.272221872585407e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000717</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>73.45583611111111,16.06306666666666,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

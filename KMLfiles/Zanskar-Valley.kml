@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Zanskar-Valley.kml</name>
+	<StyleMap id="msn_cross-hairs">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_cross-hairs">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0300a8</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight">
+		<IconStyle>
+			<scale>1.53636</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0300a8</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>Zanskar Valley</name>
+		<description><![CDATA[State – Jammu and Kashmir 
+<br/>
+<br/>
+Stratigraphy
+<br/>
+Along with the neighbouring areas of Upper Lahul and Spiti, Zanskar represents an exceptional region for the study of the sedimentary series deposited on the northern margin of the Indian plate. 
+The presence, since the Upper Precambrian, of an elongated and narrow intra continental sea between the Indian continent and the Cimmerian Super terrain is documented by the sedimentary series of the Phe Formation. The sediments of this 5000 to 10'000 metres thick formation (Fuchs and Linner, 1995; Wyss, 1999; Frank et al.,1995; Steck et al., 1998) are mainly derived from the erosion of the relief fringing this trough to the north. To accommodate such a thick series of shallow water sediments either a continuous sea level rise, or more likely a major subsidence must have affected this basin (Pierre Dèzes, 1999).
+<br/>
+<br/>
+Metamorphism
+<br/>
+Area of Zanskar is located at the boundary between two major Himalayan domains of contrasting metamorphic grade: the High Himalayan Crystalline Sequence in the southwest and the Tethys Himalaya in the northeast. These two domains are separated by a major extensional shear zone, the Zanskar Shear Zone. Three successive Himalayan metamorphic events can be individualized in the studied region; the two first events are associated with crustal thickening and are of prograde regional metamorphic type. The last metamorphic event is associated with isothermal exhumation and is retrograde (Pierre Dèzes, 1999).
+<br/>
+1.The first prograde regional metamorphism (M1) is only observed in the southwestern part of the studied area where it reaches greenschist facies conditions (Pierre Dèzes, 1999). <br/>
+2.The second prograde regional metamorphism (M2) is observed over the entire studied area and is characterized by a complete Barrovian metamorphic zonation ranging from anchizone in the Tethys Himalaya to sillimanite + k-feldspar zone in the lowermost part of the HHCS (Pierre Dèzes, 1999). 
+<br/>
+3.The last metamorphic event (M3) is only clearly observed within the medium- to high-grade rocks of the High Himalayan Crystalline Sequence. (Pierre Dèzes, 1999).
+<br/>
+<br/>
+Documents
+<br/>
+1. S. K. Parcha, Dr. M.G. Thakkar, Dr. V. C. Thakur, Dr. Navin Juyal, 2015, “Sedimentation, Tectonics and Quaternary Landforms of Zanskar Valley”
+<br/>
+<a href="https://drive.google.com/open?id=1MmMF2Dwtvm8glvVKekTxRru91TlQdwNr">https://drive.google.com/open?id=1MmMF2Dwtvm8glvVKekTxRru91TlQdwNr</a>
+<br/>
+<br/>
+2. Pierre Dèzes, 1999, “Tectonic and Metamorphic Evolution of the Central Himalayan Domain in Southeast Zanskar”
+<br/>
+https://drive.google.com/open?id=1yHcwzbOexBXxoG_CAWybbRVjESr8Aulb
+<br/>
+<br/>]]></description>
+		<LookAt>
+			<longitude>77.07583611167438</longitude>
+			<latitude>33.84248836303628</latitude>
+			<altitude>0</altitude>
+			<heading>3.339582415536692e-014</heading>
+			<tilt>0</tilt>
+			<range>16079.78808033429</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_cross-hairs</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>77.07583611167438,33.84248836303628,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
