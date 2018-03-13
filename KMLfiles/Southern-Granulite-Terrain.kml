@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Southern Granulite Terrain.kml</name>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
+	<name>Southern-Granulite-Terrain.kml</name>
 	<Style id="sn_ylw-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -22,7 +12,7 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff0000c2</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80b7d4ff</color>
@@ -38,12 +28,22 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff0000c2</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>80b7d4ff</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Placemark>
 		<name>Southern Granulite Terrain</name>
 		<styleUrl>#msn_ylw-pushpin</styleUrl>
