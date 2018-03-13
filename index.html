@@ -119,7 +119,7 @@
             var $this = $(this);
             var selected = _.find(geoData, ['title', $this.val()]);
             if(selected) {
-                var kmlUrl = window.location.protocol + '//' + window.location.hostname + window.location.pathname + 'kmls/' + selected.file;
+                var kmlUrl = window.location.protocol + '//' + window.location.hostname + window.location.pathname + 'KMLfiles/' + selected.file;
                 console.log(kmlUrl);
                 $map.kmllayer({
                     url: kmlUrl,
