@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rajasthan 4.kml</name>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff144f</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8029e6ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff144f</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8029e6ff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Rajasthan 4</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_ylw-pushpin30</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						72.72985384073596,26.6089069669512,0 72.70470753116157,26.58356716358471,0 72.69841946436,26.57723113193644,0 72.66067915945227,26.53920520812781,0 72.62921226570104,26.50750380761296,0 72.59716649267726,26.48175638691879,0 72.59143073886146,26.46944544229335,0 72.57995598468521,26.44482353452612,0 72.58275730575784,26.41500027293299,0 72.58554559034315,26.38518552097044,0 72.60091942755365,26.36806844950129,0 72.62887067487797,26.36364189761198,0 72.66363911609255,26.3595959203929,0 72.69782667911275,26.3615020105591,0 72.73035429450849,26.3812648280293,0 72.73663978402237,26.38759780858241,0 72.77542815702147,26.41367510317256,0 72.79372741756005,26.43861622694877,0 72.81938564505374,26.45796948431259,0 72.84773956712043,26.44754545574329,0 72.86351854886807,26.42447955200801,0 72.88287433710281,26.43749377514582,0 72.89434429442555,26.46203737940732,0 72.89111305285593,26.49775379721947,0 72.89057283860311,26.50370777323547,0 72.88677787517787,26.54539606940224,0 72.87041359720449,26.57445829009589,0 72.85402160350559,26.60353505237369,0 72.83926318682661,26.61473524693826,0 72.82504847816924,26.61997393400634,0 72.77663957977165,26.62339664032222,0 72.74926908604004,26.62193916135363,0 72.72188008853102,26.62047797034996,0 72.70817870828368,26.61974598423254,0 72.72985384073596,26.6089069669512,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
